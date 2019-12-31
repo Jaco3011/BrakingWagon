@@ -9,7 +9,7 @@ data:extend{
 		  {"iron-gear-wheel", 20},
 		  {"iron-plate", 20},
 		  {"steel-plate", 16},
-		  {"iron-pipe", 8}
+		  {"pipe", 8}
 		},
 		result = "braking-wagon"
 	}
